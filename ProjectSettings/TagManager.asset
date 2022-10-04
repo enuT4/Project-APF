@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ComboTxt
+  - BonusTxt
+  - Tile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CharRow_0
+    uniqueID: 2470734809
+    locked: 0
+  - name: CharRow_1
+    uniqueID: 1782375033
+    locked: 0
+  - name: CharRow_2
+    uniqueID: 2281041493
+    locked: 0
+  - name: CharRow_3
+    uniqueID: 2478538073
+    locked: 0
+  - name: CharRow_4
+    uniqueID: 2888202601
+    locked: 0
+  - name: CharRow_5
+    uniqueID: 3689005521
+    locked: 0
+  - name: CharRow_6
+    uniqueID: 1036736725
+    locked: 0
+  - name: CharRow_7
+    uniqueID: 779494061
+    locked: 0
+  - name: CharRow_8
+    uniqueID: 3266516791
+    locked: 0
+  - name: CharRow_9
+    uniqueID: 4130187761
+    locked: 0
